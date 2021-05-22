@@ -26,10 +26,4 @@
         :precondition (and (Carga ?obj) (Local ?obj ?plane) (Aeroporto ?loc) (Aviao ?plane) (Local ?plane ?loc))
         :effect (and (Local ?obj ?loc) (not (Local ?obj ?plane)))
     )
-
-    (:action actionName
-        :parameters (?x - foo)
-        :precondition (and (foo) (fuu))
-        :effect (and (fii) (fee))
-    )
 )
