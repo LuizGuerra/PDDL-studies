@@ -10,7 +10,7 @@
         (Aeroporto Galeao)
         (Carga Encomenda)
         (Local Encomenda SalgadoFilho)
-        (Local Boing_3347 SalgadoFilho)
+        (Local Boing_3347 Galeao)
     )
     
     (:goal (Local Encomenda Galeao))
