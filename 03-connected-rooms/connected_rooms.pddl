@@ -3,10 +3,10 @@
     (:requirements :strips )
 
     (:predicates
-        (Entity ?obj)
-        (Room ?obj)
-        (Place ?obj ?obj)
-        (Connection ?obj ?obj)
+        (Entity ?ent)
+        (Room ?loc)
+        (Place ?something ?somewhere)
+        (Connection ?loc1 ?loc2)
     )
 
     (:action move
