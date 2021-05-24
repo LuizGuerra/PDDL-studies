@@ -1,3 +1,11 @@
+
+;   Inteligência Artificial
+;   Trabalho 02
+;
+;   Alunos:
+;       Luiz Pedro Franciscatto Guerra
+;       Rafael dos Santos Cardoso
+
 (define (domain foo)
 
     (:requirements :strips )
@@ -109,7 +117,5 @@
             (not (Window_open_at ?loc))
         )
     )
-    
-    
     
 )
