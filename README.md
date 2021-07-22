@@ -4,8 +4,8 @@
 <details open>
 <summary>Click to expand or hide</summary>
 
-1. [Usage](#introduction-anchor)
-1. [Artifacts](#indexes-anchor)
+1. [Introduction](#introduction-anchor)
+1. [Indexes](#indexes-anchor)
 
 </details>
 
