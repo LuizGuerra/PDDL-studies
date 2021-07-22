@@ -1,21 +1,10 @@
 # PDDL-studies
 
-## Table of Contents
-<details open>
-<summary>Click to expand or hide</summary>
-
-1. [Introduction](#introduction-anchor)
-1. [Indexes](#indexes-anchor)
-
-</details>
-
-<a id="introduction-anchor"></a>
 ## Introduction
 This is a [Planning Domain Definition Language](https://en.wikipedia.org/wiki/Planning_Domain_Definition_Language#:~:text=The%20Planning%20Domain%20Definition%20Language,Intelligence%20(AI)%20planning%20languages.&text=The%20standardization%20provided%20by%20PDDL,compared%20to%20domain-specific%20systems.) studies repository.
 
 The code here can be executed locally if you have a PDDL compiler installed on your computer. However, I used a [online editor](http://editor.planning.domains/#) to code and run.
 
-<a id="indexes-anchor"></a>
 ## Indexes
 
 This repository is divided into 7 directories, each one of them containing a bunch of solutions given some context. Those contexts are described in the following table:
