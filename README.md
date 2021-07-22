@@ -1,4 +1,4 @@
-# PDDL-studies
+# PDDL Studies
 
 ## Introduction
 This is a [Planning Domain Definition Language](https://en.wikipedia.org/wiki/Planning_Domain_Definition_Language#:~:text=The%20Planning%20Domain%20Definition%20Language,Intelligence%20(AI)%20planning%20languages.&text=The%20standardization%20provided%20by%20PDDL,compared%20to%20domain-specific%20systems.) studies repository.
